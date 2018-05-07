@@ -1,0 +1,7 @@
+
+#php_flag display_errors on
+ 
+RewriteEngine on
+ 
+
+RewriteRule  ^(.+)?$ /web/S1
